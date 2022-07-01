@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 62%
+source-wordcount: '277'
+ht-degree: 44%
 
 ---
 
@@ -44,6 +44,18 @@ La vidéo ci-dessous montre comment générer une demande de signature de certif
 
 *Générer des demandes de signature de certificat (02:36 min)*
 
+>[!NOTE]
+>
+>Plusieurs améliorations ont été apportées au processus de génération de CSR :
+>
+>* Lors de la génération d’une demande de signature de certificat, vous pouvez désormais sélectionner l’un des sous-domaines inclus comme nom commun.
+>* Vous pouvez désormais copier le résumé de la demande de signature de certificat avant de générer la demande de signature de certificat.
+>* Une fois qu’une demande de signature de certificat a été générée, vous pouvez la télécharger à nouveau à partir des logs de la tâche. Cette fonctionnalité ne s’applique pas aux certificats générés avant cette version.
+>
+>![Télécharger la CSR](/help/assets/download-csr.gif)
+>
+>Voir [documentation du produit](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) pour en savoir plus.
+
 ### 2. Acheter le certificat SSL
 
 Après avoir obtenu la demande de signature de certificat, vous devez acheter le certificat SSL auprès d’une autorité de certification approuvée par votre organisation.
@@ -57,3 +69,5 @@ La vidéo ci-dessous montre comment installer des certificats SSL dans le [!UIC
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *Installer des certificats SSL (01:25 min)*
+
+
