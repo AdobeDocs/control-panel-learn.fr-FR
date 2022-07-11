@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '290'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -22,17 +22,17 @@ Le Panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
 
 ## Nouveautés
 
-* **[Panneau de Contrôle pour les modèles d’hébergement hybrides](/help/control-panel-for-hybrid-hosting-models.md)**
+* **[Panneau de contrôle pour les modèles d’hébergement hybrides](/help/control-panel-for-hybrid-hosting-models.md)**
 
-   *Découvrez comment activer le Panneau de Contrôle pour les modèles d’hébergement hybrides Adobe Campaign, accéder au panneau de contrôle et déverrouiller les fonctionnalités clés.*
+   *Découvrez comment activer le panneau de contrôle pour les modèles d’hébergement hybrides Adobe Campaign, accéder au panneau de contrôle et déverrouiller les fonctionnalités clés.*
 
-* **[Surveillance des workflows](/help/performance-monitoring/monitor-workflows.md)**
+* **[Surveiller les workflows](/help/performance-monitoring/monitor-workflows.md)**
 
    *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflow pour éviter des problèmes de base de données ou de workflow sur votre instance.*
 
 * **[Surveiller les débits et la latence](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
 
-   *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance de campagne.*
+   *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance de Campaign.*
 
 Voir [Notes de mise à jour](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=fr) pour plus d’informations sur les dernières versions du produit.
 
