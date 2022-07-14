@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 100%
 
@@ -72,8 +72,8 @@ Voir [Notes de mise à jour](https://experienceleague.adobe.com/docs/control-pan
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Connexion à un serveur SFTP</strong>
-    </a>
+    <strong>Connexion à un serveur SFTP</strong>
+    </a>
     </div>
     <p>
     <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le Panneau de contrôle. </em>
