@@ -11,13 +11,13 @@ role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 
 ---
 
-# Génération d’une clé SSH
+# Générer une clé SSH
 
 Vous devez être en mesure de générer une clé SSH pour pouvoir l&#39;ajouter au Panneau de contrôle.
 
