@@ -1,6 +1,6 @@
 ---
 title: Connexion à un serveur SFTP
-description: Découvrez comment vous connecter à un serveur SFTP à l'aide d'une application SFTP cliente, avec les clés que vous avez stockées dans le Panneau de contrôle.
+description: Découvrez comment vous connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle.
 feature: Control Panel
 kt: 2924
 thumbnail: 27263.jpg
@@ -11,13 +11,13 @@ role: Admin
 level: Experienced
 exl-id: 6c724a09-5083-4737-ba2c-29e021d16fc9
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Connexion à un serveur SFTP
+# Se connecter à un serveur SFTP
 
 ## Accès à la gestion SFTP dans le Panneau de contrôle
 
