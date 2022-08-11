@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 51de34f4-5480-459b-b8b6-6637c7bd3b89
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -26,6 +26,6 @@ Découvrez comment créer une clé publique, l’importer et l’installer sur u
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)
 
-## Adobe Campaign V7/V8
+## Adobe Campaign v7/v8
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
