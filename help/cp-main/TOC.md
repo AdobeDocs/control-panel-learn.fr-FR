@@ -7,7 +7,7 @@ feature-set: Campaign
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: 647cdf9197bc0420837434f24d475bd4aa065dda
+source-git-commit: 8844dcdb67c0ec1f27a677edbca88bc4b2d0ee97
 workflow-type: ht
 source-wordcount: '0'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 ---
 
 
-# Panneau de contrôle d&#39;Adobe Campaign - Tutoriels {#control-panel}
+# Panneau de contrôle d&#39;Adobe Campaign - Tutoriels {#tutorials}
 
 + [Panneau de contrôle](/help/control-panel-overview.md)
 + [Prise en main du panneau de contrôle](/help/get-started-with-control-panel.md)
