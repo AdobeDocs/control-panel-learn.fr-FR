@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
-source-git-commit: 6b43ca447240fff46a627ddf9091877ccd0245ca
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 89%
@@ -21,6 +21,6 @@ ht-degree: 89%
 
 Découvrez comment activer le panneau de contrôle pour les modèles d’hébergement hybrides Adobe Campaign, accéder au panneau de contrôle et déverrouiller les fonctionnalités clés.
 
->[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12&learn=0n)
 
 Pour plus d’informations, voir la [documentation du produit](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html).
