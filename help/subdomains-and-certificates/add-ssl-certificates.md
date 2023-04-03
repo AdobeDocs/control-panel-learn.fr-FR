@@ -10,8 +10,8 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
-workflow-type: tm+mt
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+workflow-type: ht
 source-wordcount: '277'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ La demande de signature de certificat (CSR) est nécessaire pour l’achat d’u
 
 La vidéo ci-dessous montre comment générer une demande de signature de certificat dans le panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&learn=0n)
 
 *Générer des demandes de signature de certificat (02:36 min)*
 
@@ -66,7 +66,7 @@ Une fois que vous avez obtenu le certificat SSL, il doit être installé pour l
 
 La vidéo ci-dessous montre comment installer des certificats SSL dans le [!UICONTROL Panneau de contrôle].
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12&learn=0n)
 
 *Installer des certificats SSL (01:25 min)*
 
