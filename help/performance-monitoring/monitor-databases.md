@@ -11,9 +11,9 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 49e2dae4-f583-40c3-b388-5333932f5084
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
-source-wordcount: '95'
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -24,6 +24,6 @@ L’ensemble des ressources, des workflows et des données de votre instance Cam
 
 Découvrez comment surveiller l’utilisation de la base de données de vos instances avec le [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12&learn=0n)
 
 Pour plus d’informations sur la surveillance des bases de données, consultez la [documentation relative au produit](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=fr).
