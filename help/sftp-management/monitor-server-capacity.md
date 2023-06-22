@@ -3,7 +3,7 @@ title: Surveillance de la capacité du serveur
 description: Découvrez comment surveiller et gérer votre capacité de stockage SFTP par instance et apprenez à ajouter des adresses IP aux listes autorisées.
 feature: Control Panel
 audience: administrator
-kt: 3266
+jira: KT-3266
 thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
@@ -11,7 +11,7 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: c4fa20ed-a836-4c69-b3a8-749dc43e6b09
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Pour accéder à la gestion des sous-domaines du [!UICONTROL Panneau de contrôl
 
 * [Page d’accueil d’Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Sélecteur de solution] : [!UICONTROL Campaign] > carte **[!UICONTROL Panneau de contrôle]** > carte **[!UICONTROL Sous-domaines et certificats]**
 
-   ou
+  ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Surveillance de la capacité du serveur, adresses IP sur [!UICONTROL liste autorisée] et ajout de clés SSH
