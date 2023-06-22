@@ -2,7 +2,7 @@
 title: Prise en main du panneau de contrôle
 description: Découvrez comment accéder au panneau de contrôle et quelles sont les conditions préalables requises pour pouvoir l’utiliser.
 feature: Control Panel
-kt: 6388
+jira: KT-6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
@@ -11,7 +11,7 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '218'
 ht-degree: 100%
@@ -33,10 +33,10 @@ Pour accéder au Panneau de contrôle, rendez-vous sur la page d&#39;accueil Exp
 
 * **[!UICONTROL Accueil Experience Cloud]** > **[!UICONTROL Accès rapide]**
 
-   ou
+  ou
 * **[!UICONTROL Page d’accueil d’Experience Cloud]** > [!UICONTROL Sélecteur de solution] : **Campaign** > carte **[!UICONTROL Panneau de contrôle]**
 
-   ou
+  ou
 
 * Directement à partir de l&#39;URL : [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
 
