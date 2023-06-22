@@ -2,7 +2,7 @@
 title: Panneau de contrôle pour les modèles d’hébergement hybrides Adobe Campaign
 description: Découvrez comment activer le panneau de contrôle pour les modèles d’hébergement hybrides, accéder au panneau de contrôle et déverrouiller les fonctionnalités clés.
 feature: Control Panel
-kt: 10483
+jira: KT-10483
 thumbnail: 344502.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '64'
 ht-degree: 100%
