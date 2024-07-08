@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '186'
+workflow-type: ht
+source-wordcount: '172'
 ht-degree: 100%
 
 ---
@@ -28,8 +28,7 @@ Le panneau de contrôle permet de configurer de nouvelles connexions à vos inst
 
 Pour accéder à la gestion des sous-domaines dans le Panneau de contrôle, rendez-vous sur :
 
-* [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Carte **[!UICONTROL Panneau de contrôle]** > Carte **Paramètres des instances**
-
+* [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Vignette **[!UICONTROL Panneau de contrôle]** > Vignette **Paramètres des instances**
 ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 

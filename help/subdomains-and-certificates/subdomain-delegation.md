@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: b1f8f620ed5f9f5a0ee2165041a036728943fc84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,8 @@ Le [!UICONTROL Panneau de contrôle] d’Adobe Campaign vous permet de délégu
 
 Pour accéder à la gestion des sous-domaines dans le [!UICONTROL Panneau de contrôle], rendez-vous sur :
 
-* [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > **[!UICONTROL Panneau de Contrôle]** carte > **Sous-domaines et certificats** carte ou
+* [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Vignette **[!UICONTROL Panneau de contrôle]** > Vignette **Sous-domaines et certificats**
+ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Comment déléguer des sous-domaines
