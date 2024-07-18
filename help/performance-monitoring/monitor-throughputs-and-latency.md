@@ -12,8 +12,8 @@ role: Admin
 level: Experienced
 exl-id: 714f9435-c3ae-4307-aa70-a810bcce7b48
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ Découvrez comment surveiller les débits de diffusion et les latences des messa
 
 >[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Documentation relative au panneau de contrôle sur la surveillance des débits et de la latence](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=fr#)
 * [Tableaux de bord de diffusion d’usine](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=fr)
