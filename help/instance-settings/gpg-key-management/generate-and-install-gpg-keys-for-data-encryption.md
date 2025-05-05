@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Le Panneau de contrôle permet de chiffrer les données provenant de votre instance Adobe Campaign. Découvrez comment générer et installer une paire de clés publique/privée sur une instance [!DNL Campaign] spécifiée pour le chiffrement des données sortantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/36386?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327884?learn=on&captions=fre_fr){transcript=true}

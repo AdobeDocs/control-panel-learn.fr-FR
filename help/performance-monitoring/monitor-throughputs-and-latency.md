@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444739/?learn=on&captions=fre_fr){transcript=true}
 
 ## Autres ressources
 

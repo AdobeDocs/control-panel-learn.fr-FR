@@ -23,4 +23,4 @@ Pour pouvoir commencer à envoyer des e-mails ou publier des landing pages avec 
 
 Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME dans le Panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450126?learn=on&captions=fre_fr){transcript=true}

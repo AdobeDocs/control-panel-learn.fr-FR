@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Découvrez comment activer le panneau de contrôle pour les modèles d’hébergement hybrides Adobe Campaign, accéder au panneau de contrôle et déverrouiller les fonctionnalités clés.
 
->[!VIDEO](https://video.tv.adobe.com/v/344502?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411074?learn=on&captions=fre_fr){transcript=true}
 
 Pour plus d’informations, voir la [documentation du produit](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html?lang=fr).

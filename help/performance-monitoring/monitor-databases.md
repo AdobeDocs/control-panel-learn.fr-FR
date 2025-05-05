@@ -24,6 +24,6 @@ L’ensemble des ressources, des workflows et des données de votre instance Cam
 
 Découvrez comment surveiller l’utilisation de la base de données de vos instances avec le [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448842?learn=on&captions=fre_fr){transcript=true}
 
 Pour plus d’informations sur la surveillance des bases de données, consultez la [documentation relative au produit](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=fr).

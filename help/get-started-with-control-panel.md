@@ -48,14 +48,14 @@ Avant de commencer, remplissez les conditions préalables suivantes :
 
 La vidéo ci-dessous montre où vous pouvez trouver l&#39;[!DNL IMS org ID] de votre instance.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34941?learn=on&captions=fre_fr){transcript=true}
 
 ### Droits d&#39;administrateur
 
 Les droits d&#39;administrateur sont requis pour accéder au [!UICONTROL Panneau de contrôle].
 La vidéo ci-dessous explique comment ajouter un administrateur à une instance Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34775?learn=on&captions=fre_fr){transcript=true}
 
 [En savoir plus](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=fr#discover-control-panel) à propos de la gestion des autorisations.
 

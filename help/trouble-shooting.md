@@ -43,11 +43,11 @@ l’administrateur doit ajouter l’utilisateur au profil de produit _Campaign-x
 
 ### Vidéos utiles
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34941?learn=on&captions=fre_fr){transcript=true}
 
 *Vérifier l’ID IMS Org (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34775?learn=on&captions=fre_fr){transcript=true}
 
 *Comment ajouter un administrateur aux administrateurs de profil de produit pour pouvoir utiliser le [!UICONTROL Panneau de contrôle] (01:03 min)*
 

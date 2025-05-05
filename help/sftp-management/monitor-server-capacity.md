@@ -35,4 +35,4 @@ Pour accéder à la gestion des sous-domaines du [!UICONTROL Panneau de contrôl
 
 Découvrez comment surveiller la capacité de stockage de vos serveurs SFTP.
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329486?learn=on&captions=fre_fr){transcript=true}
