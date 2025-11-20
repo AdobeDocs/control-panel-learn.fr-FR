@@ -11,7 +11,7 @@ auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 100%
       + [Utilisation d&#39;une clé GPG pour chiffrer des données](/help/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Déchiffrement de données](/help/instance-settings/gpg-key-management/decrypt-data.md)
 + Suivi des performances {#performance-monitoring}
-   + [Surveillance des bases de données](/help/performance-monitoring/monitor-databases.md)
+   + [Surveiller les bases de données](/help/performance-monitoring/monitor-databases.md)
    + [Surveiller les workflows](/help/performance-monitoring/monitor-workflows.md)
    + [Surveiller les débits et la latence](/help/performance-monitoring/monitor-throughputs-and-latency.md)
 + [Résoudre les problèmes du panneau de contrôle](/help/trouble-shooting.md)
