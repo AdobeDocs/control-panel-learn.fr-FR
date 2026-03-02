@@ -29,4 +29,4 @@ Découvrez comment surveiller les débits de diffusion et les latences des messa
 * [Documentation du Panneau de Contrôle sur la surveillance des débits et de la latence](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=fr#)
 * [Tableaux de bord de diffusion prêts à l’emploi](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=fr)
 * [Accès aux rapports des messages transactionnels d’usine (Campaign v7 uniquement)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=fr)
-* [Bonnes pratiques de diffusion](https://experienceleague.adobe.com/en/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
+* [Bonnes pratiques de diffusion](https://experienceleague.adobe.com/fr/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
