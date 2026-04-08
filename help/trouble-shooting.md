@@ -43,11 +43,11 @@ l&#39;administrateur doit ajouter l&#39;utilisateur au profil de produit _Campai
 
 ### Vidéos utiles
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34941?captions=fre_fr&learn=on){transcript=true}
 
 *Vérifier l’identifiant d’organisation IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34775?captions=fre_fr&learn=on){transcript=true}
 
 *Comment ajouter un administrateur ou une administratrice à l’équipe d’administration du profil produit pour pouvoir utiliser le [!UICONTROL Panneau de contrôle] (01:03 min)*
 
