@@ -12,8 +12,8 @@ level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: b84945a1afa1068bdb58947cd14f75d0ec29a0b1
-workflow-type: tm+mt
-source-wordcount: '219'
+workflow-type: ht
+source-wordcount: '229'
 ht-degree: 100%
 
 ---
@@ -41,12 +41,11 @@ Le Panneau de contrôle Adobe Campaign permet aux administrateurs et administra
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Délégation de sous-domaines Adobe Campaign (vidéo)</strong>
+    <strong>Délégation de sous-domaines à Adobe Campaign (vidéo)</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment déléguer entièrement un sous-domaine à Adobe Campaign.</em>
-    <p>
+    <em>Découvrez comment déléguer entièrement un sous-domaine à Adobe Campaign.</em>    <p>
   </td>
    <td>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
@@ -58,8 +57,7 @@ Le Panneau de contrôle Adobe Campaign permet aux administrateurs et administra
     </a>
     </div>
     <p>
-    <em> Découvrez comment ajouter des enregistrements de vérification de site TXT Google à tous les sous-domaines utilisés pour envoyer des emails aux adresses GMAIL grâce au Panneau de contrôle Campaign.</em>
-    <p>
+    <em> Découvrez comment ajouter des enregistrements de vérification de site TXT Google à tous les sous-domaines utilisés pour envoyer des e-mails aux adresses GMAIL grâce au panneau de contrôle Campaign.</em>    <p>
   </td>
   <td>
     <a href="./sftp-management/connect-to-sftp-server.md">
@@ -71,14 +69,13 @@ Le Panneau de contrôle Adobe Campaign permet aux administrateurs et administra
     </a>
     </div>
     <p>
-    <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le Panneau de contrôle. </em>
-    <p>
+    <em>Découvrez comment vous connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle.</em> <p>
   </td>
 </tr>
 </table>
 
 </div>
 
-## Ressources supplémentaires
+## Autres ressources
 
-* [Centre d&#39;aide relatif au Panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)
+* [Centre d’aide relatif au panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)

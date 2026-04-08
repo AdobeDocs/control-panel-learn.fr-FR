@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '269'
+workflow-type: ht
+source-wordcount: '288'
 ht-degree: 100%
 
 ---
@@ -34,15 +34,15 @@ Pour accéder à la gestion des sous-domaines dans le Panneau de contrôle, rend
 
 Pour ajouter des certificats SSL, trois étapes sont nécessaires :
 
-### 1. Générer les demandes de signature de certificat
+### 1.Générer les demandes de signature de certificat
 
 La demande de signature de certificat (CSR) est nécessaire pour l’achat d’un certificat SSL. Elle doit être générée pour l’instance et les sous-domaines que vous prévoyez de sécuriser.
 
 La vidéo ci-dessous montre comment générer une demande de signature de certificat dans le panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/36078?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
 
-*Générer des demandes de signature de certificat (02:36 min)*
+*Générer les demandes de signature de certificat (02:36 min)*
 
 >[!NOTE]
 >
@@ -50,25 +50,25 @@ La vidéo ci-dessous montre comment générer une demande de signature de certif
 >
 >* Lors de la génération d’une demande de signature de certificat, vous pouvez désormais sélectionner l’un des sous-domaines inclus comme nom commun.
 >* Vous pouvez désormais copier le résumé de la demande de signature de certificat avant de la générer.
->* Une fois qu’une demande de signature de certificat a été générée, vous pouvez la télécharger à nouveau à partir des logs de traitement. Cette fonctionnalité ne s’applique pas aux certificats générés avant cette version.
+>* Une fois qu’une demande de signature de certificat a été générée, vous pouvez la télécharger de nouveau à partir des logs de traitement. Cette fonctionnalité ne s’applique pas aux certificats générés avant cette version.
 >
 >![Télécharger la CSR](/help/assets/download-csr.gif)
 >
 >Consulter la [documentation du produit](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=fr) pour en savoir plus.
 >
 
-### 2. Acheter le certificat SSL
+### 2.Acheter un certificat SSL
 
 Après avoir obtenu la demande de signature de certificat, vous devez acheter le certificat SSL auprès d’une autorité de certification approuvée par votre organisation.
 
-### 3. Installer le certificat SSL
+### 3.Installer des certificats SSL
 
 Une fois que vous avez obtenu le certificat SSL, il doit être installé pour les sous-domaines que vous envisagez de sécuriser.
 
 La vidéo ci-dessous montre comment installer des certificats SSL dans le [!UICONTROL Panneau de contrôle].
 
->[!VIDEO](https://video.tv.adobe.com/v/36077?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
 
-*Installer des certificats SSL (01:25 min)*
+*Installer des certificats SSL (01:25 min)*
 
 
