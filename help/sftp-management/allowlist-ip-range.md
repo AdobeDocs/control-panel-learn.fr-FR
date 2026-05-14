@@ -29,4 +29,4 @@ Pour vous connecter à un serveur, par le biais d’une application cliente ou d
 
 Découvrez comment ajouter une plage d’adresses IP à une liste autorisée.
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444637?captions=fre_fr&learn=on){transcript=true}

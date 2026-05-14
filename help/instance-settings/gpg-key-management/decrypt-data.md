@@ -29,8 +29,8 @@ Découvrez comment créer une clé publique, l’importer et l’installer sur u
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/35753?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41348?captions=fre_fr&learn=on){transcript=true}
 
 ## Adobe Campaign v7/v8
 
->[!VIDEO](https://video.tv.adobe.com/v/36482?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41358?captions=fre_fr&learn=on){transcript=true}

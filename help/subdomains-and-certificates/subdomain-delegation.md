@@ -39,6 +39,6 @@ ou
 
 La vidéo ci-dessous montre comment déléguer des sous-domaines.
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430241?captions=fre_fr&learn=on){transcript=true}
 
 Pour plus d’informations sur le renouvellement du certificat SSL d’un sous-domaine, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=fr).

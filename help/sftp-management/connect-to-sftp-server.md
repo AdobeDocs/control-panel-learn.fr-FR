@@ -43,4 +43,4 @@ La connexion aux serveurs SFTP requiert les actions suivantes :
 
 Cette vidéo explique comment se connecter à votre serveur SFTP à l&#39;aide d&#39;une application SFTP cliente, avec les clés que vous avez stockées dans le Panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34770?captions=fre_fr&learn=on){transcript=true}

@@ -28,4 +28,4 @@ Pour garantir des taux de réception d’e-mails élevés et des taux de spams b
 
 Découvrez comment ajouter des enregistrements TXT de vérification de site de [!UICONTROL Google] à tous les sous-domaines utilisés pour envoyer des e-mails aux adresses [!DNL GMAIL] grâce au [!UICONTROL panneau de contrôle Campaign].
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36716?captions=fre_fr&learn=on){transcript=true}
