@@ -11,9 +11,12 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: bb07c575-a4db-4485-aae8-7c249c8d183b
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
+TQID: https://experienceleague.adobe.com/CI0ZtlRbsNWedE8EYqShSJRXOgWIMl-4bFTFXp8ULbc
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: 66
 ht-degree: 100%
 
 ---
@@ -24,4 +27,4 @@ Pour vous connecter à un serveur, par le biais d’une application cliente ou d
 
 Découvrez comment ajouter une plage d’adresses IP à une liste autorisée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444637?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}
