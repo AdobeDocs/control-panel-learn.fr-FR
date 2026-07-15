@@ -15,9 +15,9 @@ product_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 353
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -27,24 +27,24 @@ ht-degree: 70%
 
 ### Symptôme : impossible de se connecter à Experience Cloud
 
-**Que faire :**
-L’utilisateur doit rechercher l’ID d’organisation IMS (xxx). L&#39;administrateur doit ajouter l&#39;utilisateur au profil de produit « Campaign-xxx-Admins » pour chaque instance qu&#39;il souhaite gérer. Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;utilisateur.
+**Que faire :**
+L’utilisateur ou l’utilisatrice doit rechercher l’ID d’organisation IMS (xxx).L&#39;administrateur doit ajouter l&#39;utilisateur au profil de produit « Campaign-xxx-Admins » pour chaque instance qu&#39;il souhaite gérer. Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;utilisateur.
 
 ### Symptôme : dans la page d&#39;accueil Experience Cloud, les liens permettant d&#39;accéder au [!UICONTROL Panneau de contrôle] ne sont pas visibles pour un utilisateur.
 
-**Cause :**
-Les utilisateurs ne verront pas les liens tant qu’ils ne seront pas ajoutés en tant qu’utilisateurs au profil de produit _Campaign-xxx-Administrators/Admin_.
+**Cause :**
+Les liens ne sont pas visibles tant que les personnes n’ont pas été ajoutées en tant qu’utilisateurs et utilisatrices au profil de produit _Campaign-xxx-Administrators/Admin_.
 
-**Que faire :**
-L’administrateur doit ajouter l’utilisateur au profil de produit _Campaign-xxx-Admins_ pour chaque instance qu’il souhaite gérer. Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;utilisateur.
+**Que faire :**
+L’administrateur ou l’administratrice doit ajouter l’utilisateur ou l’utilisatrice au profil de produit _Campaign-xxx-Admins_ pour chaque instance à gérer.Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;utilisateur.
 
 ### Symptôme : une instance n&#39;est pas répertoriée dans le [!UICONTROL Panneau de contrôle]
 
-**Cause :**
-L’utilisateur doit probablement être ajouté en tant que profil de produit *utilisateur* _Campaign-xxx-Administrators/Admin_ pour l’instance qui est absente.
+**Cause :**
+La personne doit probablement être ajoutée en tant que profil de produit *utilisateur ou utilisatrice* _Campaign-xxx-Administrators/Admin_ pour l’instance manquante.
 
-**Que faire :**
-L’administrateur doit ajouter l’utilisateur au profil de produit _Campaign-xxx-Admins_ pour chaque instance qu’il souhaite gérer. Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;&quot;utilisateur&quot;.
+**Que faire :**
+L’administrateur ou l’administratrice doit ajouter l’utilisateur ou l’utilisatrice au profil de produit _Campaign-xxx-Admins_ pour chaque instance à gérer.Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;&quot;utilisateur&quot;.
 
 ### Vidéos utiles
 
