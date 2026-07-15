@@ -41,6 +41,6 @@ ou
 
 Découvrez comment ajouter une plage d’adresses IP aux listes autorisées des instances d’Adobe Campaign et comment les supprimer de la liste autorisée à l’aide du panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31630?captions=fre_fr&learn=on){transcript=true}
 
 Pour plus d’informations sur les listes autorisées des adresses IP, veuillez consulter la [documentation détaillée du produit](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=fr).
