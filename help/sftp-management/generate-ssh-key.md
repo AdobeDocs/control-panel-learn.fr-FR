@@ -45,4 +45,4 @@ Pour accéder à la gestion SFTP dans le Panneau de contrôle, rendez-vous sur�
 
 Découvrez comment générer une clé SSH à l&#39;aide d&#39;un terminal et comment stocker la version publique de la clé dans le Panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34772?captions=fre_fr&learn=on){transcript=true}
