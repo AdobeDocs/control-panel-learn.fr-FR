@@ -11,18 +11,24 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
-TQID: https://experienceleague.adobe.com/145PllmtzuWqb96oCDy4wW27SdVSWU8tV4pT3xXUO04
+TQID: 'https://experienceleague.adobe.com/145PllmtzuWqb96oCDy4wW27SdVSWU8tV4pT3xXUO04'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
 workflow-type: tm+mt
-source-wordcount: 228
+source-wordcount: '228'
 ht-degree: 100%
-
 ---
-
 # Prise en main du [!UICONTROL panneau de contrôle] {#control-panel}
 
 >[!CAUTION]
@@ -53,14 +59,14 @@ Avant de commencer, remplissez les conditions préalables suivantes :
 
 La vidéo ci-dessous montre où vous pouvez trouver l&#39;[!DNL IMS org ID] de votre instance.
 
->[!VIDEO](https://video.tv.adobe.com/v/34941?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 ### Droits d&#39;administrateur
 
 Les droits d&#39;administrateur sont requis pour accéder au [!UICONTROL Panneau de contrôle].
 La vidéo ci-dessous explique comment ajouter un administrateur à une instance Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/34775?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 [En savoir plus](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=fr#discover-control-panel) à propos de la gestion des autorisations.
 

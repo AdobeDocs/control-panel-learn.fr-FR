@@ -9,18 +9,24 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-TQID: https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0
+TQID: 'https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: ht
-source-wordcount: 353
-ht-degree: 100%
-
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
+workflow-type: tm+mt
+source-wordcount: '355'
+ht-degree: 92%
 ---
-
 # Résolution des problèmes du [!UICONTROL Panneau de contrôle]
 
 ## Connexion et page d&#39;accueil
@@ -28,7 +34,7 @@ ht-degree: 100%
 ### Symptôme : impossible de se connecter à Experience Cloud
 
 **Que faire :**
-L’utilisateur ou l’utilisatrice doit rechercher l’ID d’organisation IMS (xxx).L&#39;administrateur doit ajouter l&#39;utilisateur au profil de produit « Campaign-xxx-Admins » pour chaque instance qu&#39;il souhaite gérer. Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;utilisateur.
+L’utilisateur ou l’utilisatrice doit rechercher l’ID d’organisation IMS (xxx). L&#39;administrateur doit ajouter l&#39;utilisateur au profil de produit « Campaign-xxx-Admins » pour chaque instance qu&#39;il souhaite gérer. Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;utilisateur.
 
 ### Symptôme : dans la page d&#39;accueil Experience Cloud, les liens permettant d&#39;accéder au [!UICONTROL Panneau de contrôle] ne sont pas visibles pour un utilisateur.
 
@@ -36,7 +42,7 @@ L’utilisateur ou l’utilisatrice doit rechercher l’ID d’organisation IMS 
 Les liens ne sont pas visibles tant que les personnes n’ont pas été ajoutées en tant qu’utilisateurs et utilisatrices au profil de produit _Campaign-xxx-Administrators/Admin_.
 
 **Que faire :**
-L’administrateur ou l’administratrice doit ajouter l’utilisateur ou l’utilisatrice au profil de produit _Campaign-xxx-Admins_ pour chaque instance à gérer.Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;utilisateur.
+L’administrateur ou l’administratrice doit ajouter l’utilisateur ou l’utilisatrice au profil de produit _Campaign-xxx-Admins_ pour chaque instance à gérer. Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;utilisateur.
 
 ### Symptôme : une instance n&#39;est pas répertoriée dans le [!UICONTROL Panneau de contrôle]
 
@@ -44,17 +50,17 @@ L’administrateur ou l’administratrice doit ajouter l’utilisateur ou l’ut
 La personne doit probablement être ajoutée en tant que profil de produit *utilisateur ou utilisatrice* _Campaign-xxx-Administrators/Admin_ pour l’instance manquante.
 
 **Que faire :**
-L’administrateur ou l’administratrice doit ajouter l’utilisateur ou l’utilisatrice au profil de produit _Campaign-xxx-Admins_ pour chaque instance à gérer.Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;&quot;utilisateur&quot;.
+L’administrateur ou l’administratrice doit ajouter l’utilisateur ou l’utilisatrice au profil de produit _Campaign-xxx-Admins_ pour chaque instance à gérer. Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;&quot;utilisateur&quot;.
 
 ### Vidéos utiles
 
->[!VIDEO](https://video.tv.adobe.com/v/34941?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
-*Vérifier l’identifiant d’organisation IMS (00:26 min)*
+*Vérification de l&#39;ID org. IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/34775?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
-*Comment ajouter un administrateur ou une administratrice à l’équipe d’administration du profil produit pour pouvoir utiliser le [!UICONTROL Panneau de contrôle] (01:03 min)*
+*Comment ajouter un administrateur aux administrateurs de profil de produit pour pouvoir utiliser le [!UICONTROL Panneau de contrôle] (01:03 min)*
 
 ### Documentation utile
 

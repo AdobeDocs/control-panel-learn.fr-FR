@@ -10,18 +10,24 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-TQID: https://experienceleague.adobe.com/0bt8fHWusGHKrXc-ireqA25Eo75SA2pCj9MhADcHBxA
+TQID: 'https://experienceleague.adobe.com/0bt8fHWusGHKrXc-ireqA25Eo75SA2pCj9MhADcHBxA'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
 workflow-type: tm+mt
-source-wordcount: 288
-ht-degree: 100%
-
+source-wordcount: '290'
+ht-degree: 95%
 ---
-
 # Ajouter des certificats SSL
 
 Le [!UICONTROL Panneau de contrôle] d’Adobe Campaign permet d’ajouter des certificats SSL pour sécuriser vos sous-domaines.
@@ -45,9 +51,9 @@ La demande de signature de certificat (CSR) est nécessaire pour l’achat d’u
 
 La vidéo ci-dessous montre comment générer une demande de signature de certificat dans le panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/36078?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
 
-*Générer les demandes de signature de certificat (02:36 min)*
+*Générer des demandes de signature de certificat (02:36 min)*
 
 >[!NOTE]
 >
@@ -72,8 +78,8 @@ Une fois que vous avez obtenu le certificat SSL, il doit être installé pour l
 
 La vidéo ci-dessous montre comment installer des certificats SSL dans le [!UICONTROL Panneau de contrôle].
 
->[!VIDEO](https://video.tv.adobe.com/v/36077?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
 
-*Installer des certificats SSL (01:25 min)*
+*Installer des certificats SSL (01:25 min)*
 
 

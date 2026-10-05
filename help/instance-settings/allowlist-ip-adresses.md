@@ -10,18 +10,24 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
-TQID: https://experienceleague.adobe.com/86clW-Yx8dYHVgCQUo3eIWiZTckuD1zlVr-AcMbpUgs
+TQID: 'https://experienceleague.adobe.com/86clW-Yx8dYHVgCQUo3eIWiZTckuD1zlVr-AcMbpUgs'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: ht
-source-wordcount: 189
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
+workflow-type: tm+mt
+source-wordcount: '189'
 ht-degree: 100%
-
 ---
-
 # Adresses IP placées sur la liste autorisée
 
 Le panneau de contrôle permet de configurer de nouvelles connexions à vos instances en ajoutant des plages d’adresses IP aux listes autorisées. Par défaut, votre instance Adobe Campaign n’est accessible qu’à partir de certaines adresses IP. Par conséquent, une adresse IP doit être dans la liste autorisée :
@@ -41,6 +47,6 @@ ou
 
 Découvrez comment ajouter une plage d’adresses IP aux listes autorisées des instances d’Adobe Campaign et comment les supprimer de la liste autorisée à l’aide du panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/31630?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/28726?learn=on){transcript=true}
 
 Pour plus d’informations sur les listes autorisées des adresses IP, veuillez consulter la [documentation détaillée du produit](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=fr).
