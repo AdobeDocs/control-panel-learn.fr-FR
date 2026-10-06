@@ -11,18 +11,24 @@ role: Admin
 level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-TQID: https://experienceleague.adobe.com/5DzK8amd3azK1kPO4--F8ltID-RzAWyUtGtpxvKK-Yg
+TQID: 'https://experienceleague.adobe.com/5DzK8amd3azK1kPO4--F8ltID-RzAWyUtGtpxvKK-Yg'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: ht
-source-wordcount: 259
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
+workflow-type: tm+mt
+source-wordcount: '259'
 ht-degree: 100%
-
 ---
-
 # Tutoriels sur le Panneau de contrôle
 
 Le Panneau de contrôle Adobe Campaign permet aux administrateurs et administratrices Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer le stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
@@ -46,7 +52,9 @@ Le Panneau de contrôle Adobe Campaign permet aux administrateurs et administra
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Délégation de sous-domaines à Adobe Campaign (vidéo)</strong></div>
+    <strong>Délégation de sous-domaines à Adobe Campaign (vidéo)</strong>
+    </a>
+    </div>
     <p>
     <em>Découvrez comment déléguer entièrement un sous-domaine à Adobe Campaign.</em>
     <p>
@@ -57,7 +65,9 @@ Le Panneau de contrôle Adobe Campaign permet aux administrateurs et administra
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Gestion des enregistrements TXT Google (vidéos)</strong></div>
+    <strong>Gestion des enregistrements TXT Google (vidéos)</strong>
+    </a>
+    </div>
     <p>
     <em> Découvrez comment ajouter des enregistrements de vérification de site TXT Google à tous les sous-domaines utilisés pour envoyer des emails aux adresses GMAIL grâce au Panneau de contrôle Campaign.</em>
     <p>
@@ -68,7 +78,9 @@ Le Panneau de contrôle Adobe Campaign permet aux administrateurs et administra
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Connexion à un serveur SFTP</strong></div>
+    <strong>Connexion à un serveur SFTP</strong>
+    </a>
+    </div>
     <p>
     <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le Panneau de contrôle. </em>
     <p>
